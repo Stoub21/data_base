@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  </head>
+  <body>
+    <h2>Formulaire pour sponsor</h2>
+    <div>
+      <form id="teamForm">
+        <label for="operation">Operation à effectuer:</label>
+        <div>
+          <input
+            type="radio"
+            id="operationCreation"
+            name="operation"
+            value="creation"
+          />
+          <label for="operationCreation">Création</label>
+
+          <input
+            type="radio"
+            id="operationModification"
+            name="operation"
+            value="modification"
+          />
+          <label for="operationModification">Modification</label>
+
+          <input
+            type="radio"
+            id="operationSuppression"
+            name="operation"
+            value="suppression"
+          />
+          <label for="operationSuppression">Suppression</label>
+        </div>
+      </form>
+
+      <div id="resultContainer">
+        <!-- Les résultats seront affichés dans cette colonne -->
+      </div>
+    </div>
+    <script src="./static/administration/sponsorAdmin.js"></script>
+  </body>
+</html>

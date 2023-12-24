@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+      integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="./static/styles.css" />
+  </head>
+
+  <body>
+    <div class="container-fluid">
+      <div class="row container-fluid">
+        <!-- Colonne du formulaire -->
+        <div class="col-md-6">
+          <h3 class="titre">Choisissez une équipe :</h3>
+          <form>
+            <select id="paysSelector" name="paysSelector">
+              {% for equipeNationale in equipeNationales %}
+              <option value="{{ equipeNationale.id_pays }}">
+                {{ equipeNationale.nom }}
+              </option>
+              {% endfor %}
+            </select>
+            <div id="critereContainerPays" style="margin-top: 10px"></div>
+          </form>
+          <div id="critereContainer"></div>
+        </div>
+
+        <!-- Colonne des résultats -->
+        <div class="col-md-6" id="resultContainer">
+          <!-- Les résultats seront affichés dans cette colonne -->
+        </div>
+      </div>
+    </div>
+    <script src="./static/pays.js"></script>
+  </body>
+</html>

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  </head>
+  <body>
+    <h2>Formulaire ajout de joueur</h2>
+    <div>
+      <form id="joueur">
+        <label for="nom">Nom :</label>
+        <input type="text" id="nom" name="nom" required />
+
+        <label for="prenom">Prénom :</label>
+        <input type="text" id="prenom" name="prenom" required />
+
+        <label for="dateNaissance">Date de naissance :</label>
+        <input type="date" id="dateNaissance" name="dateNaissance" required />
+
+        <label for="taille">Taille (cm):</label>
+        <input
+          type="number"
+          id="taille"
+          name="taille"
+          required
+          min="100"
+          max="250"
+        />
+
+        <div>
+          <label for="pays">Pays :</label>
+          <select id="pays" name="pays" required></select>
+        </div>
+
+        <button type="button" id="ajouterJoueur">Ajouter Joueur</button>
+      </form>
+
+      <div id="resultContainer">
+        <!-- Les résultats seront affichés dans cette colonne -->
+      </div>
+    </div>
+    <script src="./static/administration/joueur.js"></script>
+  </body>
+</html>

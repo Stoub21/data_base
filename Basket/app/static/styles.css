@@ -1,0 +1,234 @@
+/* Ajoutez ces styles à votre fichier style.css ou balise <style> dans le fichier HTML */
+
+body {
+  margin: 0;
+}
+
+.container-fluid {
+  margin-left: 0; /* Ajustez la marge gauche selon vos besoins */
+  margin-right: 0;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.col-md-6 {
+  width: 50%; /* Chaque colonne prend 50% de la largeur */
+  box-sizing: border-box; /* Inclut le padding et la bordure dans la largeur */
+}
+
+.navbar {
+  width: 100%;
+}
+
+.navbar-nav {
+  margin-left: 0;
+  width: 100%; /* Remplit la largeur de la navbar */
+}
+
+.navbar-nav .nav-item {
+  margin-right: 15px;
+}
+
+.navbar-toggler {
+  order: -1;
+  margin-right: 0;
+}
+
+#contentContainer {
+  margin-top: 20px; /* Ajustez la valeur selon votre préférence pour l'espace */
+  margin-left: 0; /* Ajustez la marge gauche selon vos besoins */
+  margin-right: 0;
+}
+
+.titre {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+/* Reset CSS */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body Styles */
+body {
+  font-family: "Arial", sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+.container-fluid {
+  margin-top: 20px;
+}
+
+/* Navbar Styles */
+.navbar {
+  background-color: #1e272e;
+}
+
+.navbar-brand,
+.navbar-nav .nav-link {
+  color: #fff;
+}
+
+.nav-link-page {
+  color: #ecf0f1;
+  font-weight: bold;
+}
+
+/* Page Title Styles */
+.titre {
+  color: #2c3e50;
+  margin-bottom: 20px;
+}
+
+/* Form Styles */
+form {
+  margin-bottom: 20px;
+}
+
+/* Select Styles */
+select {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+/* Container Styles */
+.container-fluid {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Result Container Styles */
+#resultContainer {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Button Styles */
+.btn {
+  color: #fff;
+  background-color: #3498db;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #2980b9;
+}
+
+/* Table Styles */
+table {
+  width: 100%;
+  margin-top: 20px;
+  border-collapse: collapse;
+}
+
+table,
+th,
+td {
+  border: 1px solid #ddd;
+}
+
+th,
+td {
+  padding: 15px;
+  text-align: left;
+}
+
+th {
+  background-color: #3498db;
+  color: #fff;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+  .col-md-6 {
+    margin-top: 20px;
+  }
+}
+
+/* Button Styles */
+.btn {
+  color: #fff;
+  background-color: #3498db;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+  background-color: #2980b9;
+}
+
+/* Primary Button */
+.btn-primary {
+  background-color: #3498db;
+}
+
+.btn-primary:hover {
+  background-color: #2980b9;
+}
+
+/* Secondary Button */
+.btn-secondary {
+  background-color: #2ecc71;
+}
+
+.btn-secondary:hover {
+  background-color: #27ae60;
+}
+
+/* Danger Button */
+.btn-danger {
+  background-color: #e74c3c;
+}
+
+.btn-danger:hover {
+  background-color: #c0392b;
+}
+
+/* Success Button */
+.btn-success {
+  background-color: #27ae60;
+}
+
+.btn-success:hover {
+  background-color: #2ecc71;
+}
+
+.btn-prev,
+.btn-next {
+  color: #fff;
+  background-color: #3498db;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.btn-prev:hover {
+  background-color: #2980b9;
+}
+
+.btn-next:hover {
+  background-color: #2980b9;
+}

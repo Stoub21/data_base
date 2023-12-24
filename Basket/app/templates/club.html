@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+      integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="./static/styles.css" />
+  </head>
+
+  <body>
+    <div class="container-fluid">
+      <div class="row container-fluid">
+        <!-- Colonne du formulaire -->
+        <div class="col-md-6">
+          <h3 class="titre">Choisissez une équipe :</h3>
+          <form>
+            <select id="clubSelector" name="clubSelector">
+              {% for club in clubs %}
+              <option value="{{ club.id_club }}">{{ club.nom }}</option>
+              {% endfor %}
+            </select>
+            <div id="critereContainerClub" style="margin-top: 10px"></div>
+          </form>
+
+          <h3 class="titre">Statistiques générales tout club confondu</h3>
+          <div id="critereContainer"></div>
+        </div>
+
+        <!-- Colonne des résultats -->
+        <div class="col-md-6" id="resultContainer">
+          <!-- Les résultats seront affichés dans cette colonne -->
+        </div>
+      </div>
+    </div>
+    <script src="./static/club.js"></script>
+  </body>
+</html>

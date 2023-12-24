@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  </head>
+  <body>
+    <h2>Formulaire ajout de match</h2>
+
+    <form id="joueur">
+      <div>
+        <label for="teamType">Type d'équipe:</label>
+        <div>
+          <input type="radio" id="teamTypePays" name="teamType" value="pays" />
+          <label for="teamTypePays">Pays</label>
+
+          <input type="radio" id="teamTypeClub" name="teamType" value="club" />
+          <label for="teamTypeClub">Club</label>
+        </div>
+
+        <label for="lieu">Lieu :</label>
+        <input type="text" id="lieu" name="lieu" required />
+
+        <label for="dateMatch">Date du match :</label>
+        <input type="date" id="dateMatch" name="dateMatch" required />
+
+        <label for="matchType">Type de match:</label>
+        <select id="matchType">
+          <option value="">Sélectionner un type de match</option>
+          <option value="1/16 de finale">1/16 de finale</option>
+          <option value="1/8 de finale">1/8 de finale</option>
+          <option value="1/4 de finale">1/4 de finale</option>
+          <option value="1/2 finale">1/2 de finale</option>
+          <option value="finale ">Finale</option>
+          <option value="amical">Amical</option>
+        </select>
+
+        <div id="resultContainer">
+          <!-- Les résultats seront affichés dans cette colonne -->
+        </div>
+        <div id="teamContainer" style="margin-top: 10px"></div>
+        <button type="button" id="ajouterMatch" style="margin-top: 10px">
+          Ajouter Match
+        </button>
+        <div id="response"></div>
+      </div>
+    </form>
+    <script src="./static/administration/match.js"></script>
+  </body>
+</html>

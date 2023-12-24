@@ -1,0 +1,602 @@
+1,Fernández,Juan,2002-10-21,210,Argentina
+2,Zurbriggen,Fernando,1997-09-20,185,Argentina
+3,Anticevich,Grant,1999-02-04,203,Australia
+4,Hunt,Jesse,1997-07-30,201,Australia
+5,Asceric,Luka,1997-01-10,196,Austria
+6,Akyazili,Thomas,1997-01-15,189,Belgium
+7,Buysse,Simon,1997-08-25,194,Belgium
+8,Gillet,Pierre-Antoine,1991-04-16,201,Belgium
+9,Mennes,Joppe,2003-05-20,197,Belgium
+10,Pintelon,Xander,2003-01-10,202,Belgium
+11,Rogiers,Roby,1997-06-14,206,Belgium
+12,Schoepen,Yoeri,1994-03-30,198,Belgium
+13,Van-Buggenhout,Jo,2003-06-06,189,Belgium
+14,Van-Rossom,Sam,1986-06-03,188,Belgium
+15,Mwema,Jean-Marc,1989-12-05,195,Belgium
+16,Obasohan,Retin,1993-07-06,186,Belgium
+17,Alihodzic,Fahro,1989-08-25,208,Bosnia and Herzegovina
+18,Atic,Edin,1997-01-19,201,Bosnia and Herzegovina
+19,Delalic,Haris,1994-04-24,203,Bosnia and Herzegovina
+20,Gordić,Nemanja,1988-08-15,192,Bosnia and Herzegovina
+21,Halilovic,Miralem,1991-07-22,206,Bosnia and Herzegovina
+22,Knežević,Draško,1993-02-03,188,Bosnia and Herzegovina
+23,Kondic,Kosta,2001-08-05,193,Bosnia and Herzegovina
+24,Lazić,Aleksandar,1996-06-10,202,Bosnia and Herzegovina
+25,Maric,Nikola,1998-12-19,203,Bosnia and Herzegovina
+26,Barac,Boris,1992-02-21,205,Bosnia and Herzegovina
+27,Djedovic,Nihad,1990-01-12,199,Bosnia and Herzegovina
+28,Huertas,Marcelo,1983-05-25,191,Brazil
+29,Narace,Williams,1997-03-17,202,Cambodia
+30,Bayehe,Philippe,1999-09-16,206,Cambodia
+31,Hanlan,Olivier,1993-02-15,193,Canada
+32,Johnson,Kyle,1988-12-31,195,Canada
+33,Kabengele,Mfiondu,1997-08-14,208,Canada
+34,Kennedy,Thomas,2000-08-01,206,Canada
+35,Kirkwood,Noah,1999-12-27,201,Canada
+36,Mitrou-Long,Elijah,1996-12-15,185,Canada
+37,Pandi,Lloyd,1999-12-10,193,Canada
+38,Scrubb,Thomas,1991-08-26,196,Canada
+39,Veinot,Keevan,1998-10-06,194,Canada
+40,Doornekamp,Aaron,1985-12-05,201,Canada
+41,Ejim,Melvin,1991-03-04,201,Canada
+42,Ennis,Dylan,1991-12-26,188,Canada
+43,Echenique,Jaime,1997-04-27,211,Colombia
+44,Jordano,Antonio,1999-02-25,191,Croatia
+45,Krušlin,Filip,1989-03-18,200,Croatia
+46,Rudan,Matej,2001-03-21,204,Croatia
+47,Sakic,Zeljko,1988-04-14,204,Croatia
+48,Sobin,Josip,1989-08-31,203,Croatia
+49,Radosevic,Leon,1990-02-26,208,Croatia
+50,Polas-Bartolo,Yorman,1985-08-08,192,Cuba
+51,Sant-Roos,Howard,1991-02-13,200,Cuba
+52,Georgiou,Christos,2004-08-04,197,Cyprus
+53,Loizides,Christos,1991-05-26,206,Cyprus
+54,Panteli,Iakovos,1985-09-03,188,Cyprus
+55,Tsouloupas,Petros,2005-06-23,185,Cyprus
+56,Farsky,Radek,1999-04-11,193,Czech Republic
+57,Gniadek,Martin,1990-05-30,203,Czech Republic
+58,Hruban,Vojtech,1989-08-29,202,Czech Republic
+59,Jelinek,David,1990-08-07,196,Czech Republic
+60,Jurecka,Ludek,1983-12-26,199,Czech Republic
+61,Kavan,Kryštof,2002-03-04,196,Czech Republic
+62,Kouril,Radovan,1995-04-08,184,Czech Republic
+63,Palyza,Lukas,1989-10-10,201,Czech Republic
+64,Pechacek,Adam,1995-02-19,207,Czech Republic
+65,Pursl,Simon,1997-01-29,204,Czech Republic
+66,Sirina,Jakub,1987-10-21,185,Czech Republic
+67,Slavik,Jakub,1999-04-29,200,Czech Republic
+68,Švandrlík,Jan,1994-01-28,201,Czech Republic
+69,Drejer-Erichsen,Frederik,2006-08-07,205,Denmark
+70,Høj-Madsen,Magnus,2003-07-09,196,Denmark
+71,Jukic,Darko,1990-08-23,198,Denmark
+72,Knudsen,Gustav,2003-04-16,203,Denmark
+73,Midtgaard,Asbjorn,1997-08-20,213,Denmark
+74,Sørensen,Noah,2003-02-06,196,Denmark
+75,De-La-Rosa,Rigoberto-Mendoza,1992-06-07,190,Dominican Republic
+76,Akin,Daniel,1998-06-16,204,England
+77,Whelan,Patrick,1996-08-25,193,England
+78,Williams,Deane,1996-08-23,203,England
+79,Bockler,Leemet,2001-07-04,198,Estonia
+80,Dorbek,Martin,1991-01-21,196,Estonia
+81,Hermet,Kregor,1997-06-09,205,Estonia
+82,Kirves,Mihkel,1996-12-06,190,Estonia
+83,Kitsing,Kristjan,1990-12-11,205,Estonia
+84,Kurbas,Tanel,1988-05-08,198,Estonia
+85,Riismaa,Joonas,2002-03-06,195,Estonia
+86,Tass,Matthias,1999-03-23,209,Estonia
+87,Toom,Hugo,2002-09-25,200,Estonia
+88,Jurkatamm,Mikk,2000-08-18,195,Estonia
+89,Treier,Kaspar,1999-08-19,203,Estonia
+90,Hakamaa,Joona,2001-04-06,196,Finland
+91,Hopkins,Shawn,1995-05-09,196,Finland
+92,Ikkela,Jussi,2004-09-15,194,Finland
+93,Innamaa,Eero,1998-08-14,188,Finland
+94,Kanden,Oliver,2004-08-11,198,Finland
+95,Kaukiainen,Severi,1998-05-11,185,Finland
+96,Luukkonen,Eemi,2002-12-18,200,Finland
+97,Madsen,Alexander,1995-01-26,208,Finland
+98,Palmi,Topias,1994-08-26,191,Finland
+99,Salin,Sasu,1991-06-11,192,Finland
+100,Mantovani,Roberto,1994-01-04,202,Finland
+101,Affo-Mama,Dylan,1999-07-22,196,France
+102,Alingue,Jacques,1988-04-30,203,France
+103,Ayayi,Gerald,2001-08-24,191,France
+104,Bordes,Matéo,2004-01-31,198,France
+105,Bourgade,Ethane,2004-05-10,197,France
+106,Cavaliere,Leopold,1996-04-27,202,France
+107,De-Sousa,Nathan,2003-02-21,191,France
+108,Delaunay,Leopold,2001-10-14,193,France
+109,Dokossi,Allan,1999-12-14,203,France
+110,Ducoté,Robin,2001-01-20,193,France
+111,Gombauld,Stephane,1997-03-05,202,France
+112,Goudou-Sinha,Enzo,1998-10-26,183,France
+113,Invernizzi,Hugo,1993-01-07,196,France
+114,L'Etang,Amael,2005-06-29,215,France
+115,Lacombe,Paul,1990-06-12,195,France
+116,Maille,Jean-Baptiste,1993-10-23,189,France
+117,Michineau,David,1994-06-06,191,France
+118,Morency,Romuald,1995-07-26,199,France
+119,N'Doye,Abdoulaye,1998-03-09,200,France
+120,Noua,Amine,1997-02-07,202,France
+121,Pietrus,Illan,2005-06-20,192,France
+122,Riga,Louis,2005-08-06,201,France
+123,Rousselle,Jonathan,1990-02-07,192,France
+124,Sako,Neal,1999-08-13,210,France
+125,Salaun,Tidjane,2005-08-10,203,France
+126,Vincennes,Nathan,2003-04-10,200,France
+127,Yeguete,Wilfried,1991-09-16,203,France
+128,Jurkovitz,Natan,1995-04-04,202,France
+129,Chechelashvili,Nika,1999-09-09,196,Georgia
+130,Gogodze,Nodar,1994-07-12,190,Georgia
+131,Maskhulia,Levan,1996-04-27,201,Georgia
+132,Phevadze,Aleksandre,1998-04-15,206,Georgia
+133,Shermadini,Giorgi,1989-04-02,217,Georgia
+134,Tsintsadze,Giorgi,1986-02-07,192,Georgia
+135,Turdziladze,Giorgi,1997-09-21,207,Georgia
+136,Adam-Schoormann,Len,2002-07-25,190,Germany
+137,Agbakoko,Norris,2000-01-16,216,Germany
+138,Akpinar,Ismet,1995-05-22,195,Germany
+139,Bähre,Jonathan,1996-08-12,207,Germany
+140,Christian-Wank,Lukas-Nathanael,1997-01-19,199,Germany
+141,Edigin,Eddy,1995-09-17,203,Germany
+142,Ensminger,Zachary,2001-04-30,192,Germany
+143,Griesel,Sam,2000-03-22,199,Germany
+144,Hartwich,Philipp,1995-08-11,218,Germany
+145,Mönninghoff,Mathis,1992-03-17,200,Germany
+146,Ogbe,Kenneth,1994-10-16,197,Germany
+147,Pape,Till,1997-12-10,204,Germany
+148,Patrick,Johannes,2001-12-30,185,Germany
+149,Patrick,Jacob,2003-10-21,194,Germany
+150,Pleta,Dominykas,2004-09-06,202,Germany
+151,Rich-Igbineweka,Osaro,1998-07-22,188,Germany
+152,Sengfelder,Christian,1995-02-28,203,Germany
+153,Turudic,Benedikt,1997-07-21,207,Germany
+154,Yeboah,Akwasi,1997-06-15,198,Ghana
+155,Arsenopoulos,Nikos,2000-05-19,196,Greece
+156,Bazinas,Athanasios,2003-09-18,194,Greece
+157,Charalampopoulos,Vasileios,1997-01-06,202,Greece
+158,Chatzidakis,Manolis,2000-04-21,208,Greece
+159,Chougkaz,Nikos,2000-09-04,207,Greece
+160,Chrysikopoulos,Linos-Spyridon,1992-12-01,206,Greece
+161,Flionis,Dimitris,1997-04-08,191,Greece
+162,Karagiannidis,Antonis,2002-04-13,204,Greece
+163,Karampelas,Zois,2001-04-27,186,Greece
+164,Kaselakis,Leonidas,1990-06-01,201,Greece
+165,Koniaris,Antonis,1997-08-30,183,Greece
+166,Kouzeloglou,Ioannis,1995-04-01,204,Greece
+167,Margaritis,Vangelis,1982-12-05,200,Greece
+168,Netzip-Oglou,Omer,2002-10-18,190,Greece
+169,Plotas,Nikolaos,2004-06-12,195,Greece
+170,Poulianitis,Stelios,1995-04-03,189,Greece
+171,Prekas,Grigoris,2006-04-03,201,Greece
+172,Schizas,Stavros,1989-01-10,196,Greece
+173,Tsairelis,Michail,1988-02-23,206,Greece
+174,Tsiakmas,Nikos,1999-09-29,187,Greece
+175,Xanthopoulos,Vasilis,1984-04-29,188,Greece
+176,Zougris,Evangelos,2004-09-14,202,Greece
+177,Benke,Szilard,1995-05-22,197,Hungary
+178,Keller,Akos,1989-03-28,208,Hungary
+179,Kovacs,Benedek,2001-02-22,201,Hungary
+180,Krivacsevics,Markó,1996-10-07,208,Hungary
+181,Perl,Zoltan,1995-07-28,196,Hungary
+182,Pongo,Marcell,1997-03-03,194,Hungary
+183,Tanoh-Dez,Andras,2002-03-29,190,Hungary
+184,Verasztó,Péter,2001-03-29,186,Hungary
+185,Mar-Fridriksson,Elvar,1994-10-11,182,Iceland
+186,Amir,Shahar,1999-03-11,187,Israel
+187,Artzi,Netanel,1997-03-21,198,Israel
+188,Blayzer,Oz,1992-12-29,201,Israel
+189,Chachashvili,Gabriel,1999-12-08,211,Israel
+190,Cornelius,Or,1997-08-26,198,Israel
+191,Dawson,Shawn,1993-12-12,198,Israel
+192,Hanochi,Yotam,2000-12-08,204,Israel
+193,Kravits,Yair,1999-03-03,193,Israel
+194,Levinson,Tomer,2000-05-20,207,Israel
+195,Misgav,Niv,1995-07-25,169,Israel
+196,Moshe,Tzuf-Ben,1997-07-31,194,Israel
+197,Segev,Itay,1995-06-15,204,Israel
+198,Zoosman,Yovel,1998-05-12,200,Israel
+199,Yankowitz,Nadav,2002-08-31,186,Israel
+200,Baldasso,Tommaso,1998-01-29,195,Italy
+201,Candi,Leonardo,1997-03-30,192,Italy
+202,Cappelletti,Alessandro,1995-09-22,186,Italy
+203,Diop,Ousmane,2000-02-19,207,Italy
+204,Diouf,Mouhamet,2001-08-10,204,Italy
+205,Gentile,Stefano,1989-08-20,191,Italy
+206,Laquintana,Tommaso,1995-07-07,189,Italy
+207,Librizzi,Matteo,2002-04-06,180,Italy
+208,Lombardi,Eric,1993-02-01,200,Italy
+209,Moretti,Davide,1998-03-25,191,Italy
+210,Raspino,Tommaso,1989-04-11,198,Italy
+211,Tavernelli,Riccardo,1991-03-16,190,Italy
+212,Ulaneo,Scott,1998-06-27,208,Italy
+213,Virginio,Nicolo,2003-03-18,206,Italy
+214,Woldetensae,Tomas,1998-04-30,196,Italy
+215,Zerini,Andrea,1988-09-25,205,Italy
+216,De-Lattibeaudiere,Tyran,1991-01-25,201,Jamaica
+217,Ismaili,Meriton,2000-04-03,192,Kosovo
+218,Qallaku,Arian,1992-07-09,196,Kosovo
+219,Sheqiri,Dion,2003-08-25,208,Kosovo
+220,Shoshi,Lis,1994-06-29,211,Kosovo
+221,Sipahi,Kenan,1995-05-26,198,Kosovo
+222,Bertans,Dairis,1989-08-09,194,Latvia
+223,Berzins,Roberts,2001-01-10,193,Latvia
+224,Blums,Roberts,2005-10-02,188,Latvia
+225,Butirins,Raivo,2003-12-19,206,Latvia
+226,Gulbis,Maris,1985-09-04,200,Latvia
+227,Kurucs,Arturs,2000-01-19,191,Latvia
+228,Kurucs,Rodions,1998-02-05,206,Latvia
+229,Pinnis,Peteris,2004-08-17,213,Latvia
+230,Putans,Alberts,1998-08-20,193,Latvia
+231,Silins,Karlis,1997-01-01,211,Latvia
+232,Strautins,Arturs,1998-09-23,192,Latvia
+233,Stumbris,Roberts,1993-07-09,199,Latvia
+234,Timma,Janis,1992-07-02,201,Latvia
+235,Babraitis,Modestas,2004-01-15,193,Lithuania
+236,Beliauskas,Laurynas,1997-03-02,192,Lithuania
+237,Blazevic,Marek,2001-08-01,208,Lithuania
+238,Echodas,Martynas,1997-07-01,206,Lithuania
+239,Jogela,Tauras,1993-05-02,203,Lithuania
+240,Jogėla,Matas,1998-07-10,199,Lithuania
+241,Kreismontas,Lukas,2001-04-08,197,Lithuania
+242,Krizanauskas,Gantas,2006-03-22,190,Lithuania
+243,Kuzminskas,Mindaugas,1989-09-19,205,Lithuania
+244,Masiulis,Gytis,1998-04-10,204,Lithuania
+245,Mineikis,Nojus,2000-10-29,201,Lithuania
+246,Normantas,Margiris,1996-09-27,194,Lithuania
+247,Pleikys,Oskaras,2001-03-20,202,Lithuania
+248,Radzevičius,Gytis,1995-07-17,196,Lithuania
+249,Sajus,Martynas,1996-02-22,207,Lithuania
+250,Seskus,Edvinas,1995-03-10,196,Lithuania
+251,Uleckas,Lukas,1999-06-08,198,Lithuania
+252,Velicka,Arnas,1999-12-10,193,Lithuania
+253,Kovac,Ben,2000-02-22,195,Luxembourg
+254,Mikovic,Milija,1994-03-25,205,Montenegro
+255,Nikolić,Zoran,1996-04-01,213,Montenegro
+256,Radetic,Lazar,2003-07-03,204,Montenegro
+257,Radović,Nemanja,1991-10-11,208,Montenegro
+258,Starovlah,Milic,1998-01-28,197,Montenegro
+259,Subotic,Bojan,1990-12-17,203,Montenegro
+260,Vranješ,Nemanja,1988-05-11,188,Montenegro
+261,Zivanovic,Balsa,2001-04-06,188,Montenegro
+262,Zugic,Fedor,2003-08-18,198,Montenegro
+263,Helfrich,Keime,1997-08-05,198,Netherlands
+264,Kok,Jito,1994-03-23,206,Netherlands
+265,Nzekwesi,Emmanuel,1997-08-05,203,Netherlands
+266,van-der-Mars,Thomas,1990-10-15,208,Netherlands
+267,Van-Vliet,Boy,1994-07-13,194,Netherlands
+268,Izundu,Ebuka,1996-06-28,208,Nigeria
+269,Udanoh,Ike,1989-08-02,203,Nigeria
+270,Frey,Harald,1997-05-27,182,Norway
+271,Borowski,Kacper,1994-05-02,205,Poland
+272,Kolenda,Michal,1997-03-31,200,Poland
+273,Kulka,Grzegorz,1996-04-04,206,Poland
+274,Matczak,Filip,1993-08-18,188,Poland
+275,Nowakowski,Michal,1988-06-18,202,Poland
+276,Ponitka,Marcel,1997-08-28,190,Poland
+277,Wielunski,Marcin,1996-03-27,196,Poland
+278,Wyka,Dariusz,1991-12-03,208,Poland
+279,Zmudzki,Maciej,1997-05-12,206,Poland
+280,Łabinowicz,Artur,1997-01-23,193,Poland
+281,Mazurczak,Andy,1993-12-27,188,Poland
+282,Almeida,Ivan,1989-05-10,198,Portugal
+283,Barbosa,Jose-Miguel,1990-09-18,183,Portugal
+284,Correia-Gomes,Joao-Roberto,1985-02-05,202,Portugal
+285,Francisco,Eduardo,2003-10-05,198,Portugal
+286,Gameiro,Diogo,1995-08-13,183,Portugal
+287,Relvao,Daniel-Baptista,1996-06-26,208,Portugal
+288,Silva,Sergio,1996-03-05,194,Portugal
+289,Silva,Jose,1989-04-16,194,Portugal
+290,Gandia-Rosa,Ivan,1997-08-14,185,Puerto Rico
+291,Toro,Arnaldo,1997-09-28,203,Puerto Rico
+292,Oniangue,Giovan,1991-04-22,198,Republic of the Congo
+293,Sakho,Jordan,1997-04-04,208,Republic of the Congo
+294,Baciu,Catalin,1988-08-26,218,Romania
+295,Freeman-Daniels,Lennard-Kevin,1995-12-10,203,Romania
+296,Nastrut,Luca,2003-08-10,193,Romania
+297,Nicolescu,Nicolae-Bogdan,1997-01-03,200,Romania
+298,Diouf,Michel,1989-04-19,208,Senegal
+299,N'Dour,Maurice,1992-06-18,206,Senegal
+300,Sane,Cheikh,1992-05-04,206,Senegal
+301,Diagne,Moussa,1994-03-06,211,Senegal
+302,Diop,Ilimane,1995-04-04,210,Senegal
+303,Bošković,Mihailo,2002-06-30,202,Serbia
+304,Dangubic,Nemanja,1993-04-13,204,Serbia
+305,Jeremic,Marko,1991-10-23,192,Serbia
+306,Jovanović,Strahinja,1996-08-29,185,Serbia
+307,Jovičić,Mihailo,1999-01-24,190,Serbia
+308,Kovačević,Marko,1999-07-29,200,Serbia
+309,Marelja,Aleksandar,1992-12-06,207,Serbia
+310,Markovic,Nikola,1989-07-07,208,Serbia
+311,Mićović,Strahinja,1992-06-17,206,Serbia
+312,Milosavljevic,Dragan,1989-05-11,198,Serbia
+313,Momirov,Stefan,1999-12-18,195,Serbia
+314,Nakic,Mario,2001-06-14,200,Serbia
+315,Pot,Stefan,1994-07-15,194,Serbia
+316,Ristić,Dušan,1995-10-27,211,Serbia
+317,Saranovic,Nikola,2003-08-20,200,Serbia
+318,Simović,Ranko,1999-06-07,200,Serbia
+319,Stanković,Ognjen,2005-03-19,203,Serbia
+320,Stepanovic,Aleksa,1998-06-02,206,Serbia
+321,Tanaskovic,Nikola,1997-09-21,205,Serbia
+322,Vujovic,Nikola,1993-01-21,210,Serbia
+323,Gavrilovic,Alexandre,1991-10-25,207,Serbia
+324,Jošilo,Marko,1992-09-16,204,Serbia
+325,Abraham,David,1996-09-09,193,Slovakia
+326,Bachan,Martin,1995-08-24,202,Slovakia
+327,Bojanovsky,Boris,1993-04-15,217,Slovakia
+328,Mokran,Jakub,1999-05-03,201,Slovakia
+329,Hrovat,Gregor,1994-08-18,195,Slovenia
+330,Barreiro,Jonathan,1997-01-16,202,Spain
+331,Borchers,Álvaro-Muñoz,1990-10-25,197,Spain
+332,Diaz,Alberto,1994-04-23,188,Spain
+333,Fernandez-Manzanares,Jaime,2000-07-15,206,Spain
+334,Figueras-Lopez,Pol,1998-03-21,187,Spain
+335,Garcia,Sergi,1997-02-17,193,Spain
+336,Guerra,Francisco,1992-12-23,214,Spain
+337,Guerrero,Ruben,1995-09-22,211,Spain
+338,Huguet,Sergi,2002-08-31,194,Spain
+339,Lopez-Laz,Alejandro,1991-05-08,190,Spain
+340,Quintela,Sergi,1996-08-21,185,Spain
+341,Quintela,Erik,1991-08-17,185,Spain
+342,Saint-Supery,Mario,2006-04-14,190,Spain
+343,Sastre,Joan,1991-12-10,201,Spain
+344,Sima,Yankuba,1996-07-28,211,Spain
+345,Suarez-Castro,Alejandro,1993-08-27,205,Spain
+346,Ventura,Albert,1992-04-07,191,Spain
+347,Vicedo,Edgar,1994-08-24,200,Spain
+348,Bergström,Hugo,2001-06-14,188,Sweden
+349,Birgander,Simon,1997-09-23,211,Sweden
+350,Byström,Viktor,2005-05-07,202,Sweden
+351,Clarance,Elijah,1998-07-03,194,Sweden
+352,Dawit,Nathan,1994-12-09,189,Sweden
+353,Desport,Elias,1992-09-12,203,Sweden
+354,Hakanson,Ludvig,1992-03-22,190,Sweden
+355,Lilja,Hugo,2003-01-06,198,Sweden
+356,Ramstedt,Adam,1995-07-24,207,Sweden
+357,Schüberg,Tim,1995-04-27,188,Sweden
+358,Terins,Felix,1998-04-24,184,Sweden
+359,Cotture,Arnaud,1995-08-09,203,Switzerland
+360,Kovač,Roberto,1990-05-02,189,Switzerland
+361,Martin,Killian,1998-04-03,184,Switzerland
+362,Martin,Killian,1998-04-03,184,Switzerland
+363,Hamilton,Johnny,1994-02-03,211,Trinidad and Tobago
+364,Carrington,Khadeen,1995-09-03,193,Trinidad and Tobago
+365,Ben-Romdhane,Makram,1989-03-27,204,Tunisia
+366,Akdamar,Tevfik,1994-09-25,202,Turkey
+367,Cengiz,Ozgur,2005-04-18,185,Turkey
+368,Demir,Berk,1995-05-18,203,Turkey
+369,Demir,Ege,2004-08-15,207,Turkey
+370,Deniz-Kilicli,Mükremin,1990-09-23,206,Turkey
+371,Duran,Ahmet,1999-01-28,205,Turkey
+372,Emir-Kabaca,Sadik,2000-12-13,211,Turkey
+373,Erden,Semih,1986-07-28,211,Turkey
+374,Gecim,Tolga,1996-03-27,206,Turkey
+375,Geyik,Samet,1993-01-12,206,Turkey
+376,Göksenin-Koksal,Hüseyin,1991-01-08,196,Turkey
+377,Haltalı,Furkan,2002-12-02,211,Turkey
+378,Korkmaz,Can,1992-09-21,188,Turkey
+379,Kurtuldum,Mustafa,2001-05-10,190,Turkey
+380,Kus,Canberk,1996-08-12,198,Turkey
+381,Mustafa,Muhaymin,1999-02-10,199,Turkey
+382,Mutaf,Sarper-David,2002-06-14,197,Turkey
+383,Nihat-Atalan,Mehmet,2003-01-20,198,Turkey
+384,Öncel,Ridvan,1997-02-21,191,Turkey
+385,Sayili,Hakan,2000-01-01,204,Turkey
+386,Taskiran,Enes,1997-01-17,189,Turkey
+387,Tuna,Batin,2003-01-04,197,Turkey
+388,Tuncer,Ahmet,1993-03-23,193,Turkey
+389,Turen,Metin,1994-05-02,206,Turkey
+390,Utku-Al,Omer,1998-02-03,181,Turkey
+391,Yasar,Muhsin,1995-12-31,205,Turkey
+392,Kovliar,Oleksandr,2002-06-26,190,Ukraine
+393,Pustovyi,Artem,1992-06-25,218,Ukraine
+394,Abdur-Rahkman,Muhammad-Ali,1994-08-01,193,United States
+395,Abromaitis,Tim,1989-08-17,203,United States
+396,Adams,Brendan,2000-04-03,193,United States
+397,Adaway,Jalen,1998-07-09,196,United States
+398,Ahmad,Khalil,1996-12-24,193,United States
+399,Allman,Kyle,1997-08-02,192,United States
+400,Alston,Justin,1994-07-02,204,United States
+401,Anderson,Justin,1993-10-19,197,United States
+402,Basile,Grant,2000-04-19,204,United States
+403,Beck,Tervell,1997-12-17,202,United States
+404,Blakes,Gerry,1993-10-16,193,United States
+405,Bolton,Rasir,1999-08-27,189,United States
+406,Booth,Phil,1995-12-31,190,United States
+407,Bowlin,Skyler,1989-07-13,190,United States
+408,Boykin,Tyree,1999-02-06,182,United States
+409,Boykins,Jacobi,1995-02-11,197,United States
+410,Bradford,Desonta,1996-04-12,192,United States
+411,Brandon,Chris,2000-02-21,202,United States
+412,Brooks,Nysier,1996-12-05,212,United States
+413,Broussard,Aaron,1990-04-14,195,United States
+414,Brown,Chaundee,1998-12-04,196,United States
+415,Brown,Jaylon,1994-08-11,182,United States
+416,Brown,Vitto,1995-07-13,203,United States
+417,Brown,Gabe,2000-03-05,201,United States
+418,Brown,Tookie,1995-10-22,180,United States
+419,Brown,Anthony,1992-09-10,201,United States
+420,Buie,Desure,1997-02-21,183,United States
+421,Burns,Deondre,1997-01-16,188,United States
+422,Buttrick,Trent,1998-09-18,206,United States
+423,Calloway,Jacob,1996-04-30,203,United States
+424,Campbell,T.J.,1988-01-23,176,United States
+425,Carmichael,Jackie,1990-01-02,206,United States
+426,Carter,Terrell,1996-01-06,208,United States
+427,Carter,Tyson,1998-01-14,193,United States
+428,Cauley-Stein,Willie,1993-08-18,213,United States
+429,Caupain,Troy,1995-10-29,193,United States
+430,Caver,Ahmad,1996-08-12,185,United States
+431,Chandler,John,1998-09-26,194,United States
+432,Chapman,Brekkott,1996-04-07,206,United States
+433,Childs,Elijah,1999-01-10,201,United States
+434,Coffey,Chris,1997-07-08,201,United States
+435,Cole,R.J.,1999-08-24,185,United States
+436,Cook,Aaron,1997-12-28,188,United States
+437,Cook,Elgin,1993-01-15,198,United States
+438,Cowan,Anthony,1997-09-07,185,United States
+439,Cowels,Raymond,1990-10-18,192,United States
+440,Crawford,Drew,1990-09-18,196,United States
+441,Cuthbertson,Zac,1996-12-27,201,United States
+442,Daum,Mike,1995-09-30,206,United States
+443,DeLaurier,Javin,1998-04-07,207,United States
+444,Diamante-Green,Xavier,1996-08-09,198,United States
+445,Douglas,Toney,1986-03-16,188,United States
+446,Dowe,Chris,1991-08-26,193,United States
+447,Drechsel,Trey,1996-07-27,196,United States
+448,DuBose,Ian,1999-01-16,192,United States
+449,Dunn,Jhonathan,1998-02-17,193,United States
+450,Eaddy,Tahj,1996-07-05,188,United States
+451,Edler-Davis,Justin,1998-02-19,200,United States
+452,Edwards,Vince,1996-05-04,202,United States
+453,Ellison,Malik,1996-08-17,198,United States
+454,Evans,Ryan,1990-06-19,203,United States
+455,Fenner,Derrick,1993-12-07,198,United States
+456,Flagg,Savion,1999-05-26,201,United States
+457,Flatten,Skyler,1995-07-02,198,United States
+458,Floyd,Jordan,1997-05-22,188,United States
+459,Fobbs,Brian,1998-02-17,196,United States
+460,Foster,Kyle,1997-05-27,197,United States
+461,Frankamp,Conner,1995-07-16,184,United States
+462,Gamble,Karl,1996-10-26,206,United States
+463,Gibson,Umoja,1998-07-04,185,United States
+464,Gorham,Justin,1998-08-06,201,United States
+465,Gotcher,Toddrick,1993-03-14,193,United States
+466,Graves,Jayvon,1998-12-29,190,United States
+467,Griffin,Nick,1995-02-27,188,United States
+468,Hale,Hunter,1997-06-25,192,United States
+469,Hall,Langston,1991-10-01,192,United States
+470,Hammond,Deion,1999-06-05,193,United States
+471,Hands,Jaylen,1999-08-15,191,United States
+472,Hankins,Zachary,1996-07-27,208,United States
+473,Hannahs,Dusty,1993-08-02,191,United States
+474,Harper,Demonte,1989-06-21,193,United States
+475,Harris,C.J.,1991-02-19,191,United States
+476,Harrison,Andrew,1994-09-28,198,United States
+477,Henry,Lenell,1998-04-01,203,United States
+478,Hilliard,Darrun,1993-04-13,198,United States
+479,Hollingsworth,Taveion,1998-08-14,188,United States
+480,Holman,Aric,1997-07-11,208,United States
+481,Holston,David,1986-01-26,173,United States
+482,Homesley,Caleb,1996-10-27,193,United States
+483,Hooker,Quinton,1995-01-22,183,United States
+484,Hornsby,Keith,1992-01-30,192,United States
+485,Howard,Rob,1997-09-19,203,United States
+486,Howard,Jordan,1996-01-06,180,United States
+487,Hughes,Michael,1998-02-01,203,United States
+488,Hume,Bodie,1999-08-21,198,United States
+489,Hunt,Cameron,1997-08-25,190,United States
+490,Jefferson,Damien,1997-09-03,196,United States
+491,Johnson,Matt,1998-09-20,193,United States
+492,Johnson,JaJuan,1989-02-08,208,United States
+493,Johnson,Chris,1990-04-29,198,United States
+494,Jones,Jalen,1993-05-27,203,United States
+495,Jones,Mason,1998-07-21,196,United States
+496,Jones,Christian,1993-07-06,201,United States
+497,Jones,Devante,1998-04-09,186,United States
+498,Jr.-Carey,Vernon,2001-02-25,208,United States
+499,Kalinoski,Tyler,1992-12-19,193,United States
+500,Kravish,David,1992-08-12,208,United States
+501,Kreuser,Rocky,1999-03-05,206,United States
+502,Laszewski,Nate,1999-07-19,208,United States
+503,Lewis,Jaren,1996-10-25,198,United States
+504,Lewis,Matt,1998-12-21,196,United States
+505,Lewis,Jaren,1996-10-25,198,United States
+506,Lottie,Jaizec,1998-02-16,188,United States
+507,Manning-Jr,Charles,1998-09-22,196,United States
+508,Martin,Jarell,1994-05-24,206,United States
+509,Mason,Nate,1995-07-25,188,United States
+510,Mawugbe,Selom,1998-07-20,206,United States
+511,Maye,Luke,1997-03-07,203,United States
+512,McCollum,Errick,1988-01-22,185,United States
+513,McCormack,David,1999-07-02,208,United States
+514,McDermott,Sean,1996-10-03,198,United States
+515,McKinnie,Alfonzo,1992-08-17,202,United States
+516,McLemore,Ben,1993-02-11,191,United States
+517,McNeace,Jamuni,1996-03-25,208,United States
+518,McRae,Jordan,1991-03-28,197,United States
+519,Meier,Tony,1990-06-03,206,United States
+520,Melson,Silas,1996-08-22,191,United States
+521,Meyinsse,Jerome,1988-12-18,207,United States
+522,Mitchell,Wendell,1997-03-26,191,United States
+523,Moody,Stefan,1993-09-06,179,United States
+524,Moore,Lee,1995-08-09,193,United States
+525,Moore,Clifton,1999-08-18,209,United States
+526,Morris,Jamel,1992-10-14,195,United States
+527,Murray,Dwight,2000-01-21,183,United States
+528,Neal,Erick,1995-03-15,179,United States
+529,Nembhard,R.J.,1999-03-22,196,United States
+530,Nottage,Eric,1994-12-10,188,United States
+531,O'Brien,J.J.,1992-04-08,201,United States
+532,Onwas,Princeton,1993-08-10,198,United States
+533,Parsons,Malik,1999-08-17,190,United States
+534,Pearson,Nijal,1997-10-21,196,United States
+535,Penha,CJ,2000-02-03,200,United States
+536,Pinckney,DeAndre,2000-02-29,203,United States
+537,Pineiro,Isaiah,1995-02-05,198,United States
+538,Pipes,PJ,1999-03-20,188,United States
+539,Prewitt,Omar,1994-08-24,200,United States
+540,Price,Austin,1995-06-19,193,United States
+541,Randle,Chasson,1993-02-05,187,United States
+542,Randolph,Levi,1992-09-03,195,United States
+543,Renfro,Nate,1996-12-11,201,United States
+544,Reynolds,Cameron,1995-02-07,203,United States
+545,Russell,DeWayne,1994-02-10,180,United States
+546,Sanders,Nakye,1997-10-01,203,United States
+547,Schwartz,D'Shawn,1999-02-15,201,United States
+548,Senglin,Jeremy,1995-03-24,188,United States
+549,Shahid,Vinnie,1998-05-13,180,United States
+550,Sleva,Dustin,1995-08-23,201,United States
+551,Smith,Kendall,1995-08-18,189,United States
+552,Smith,Justin,1999-03-01,201,United States
+553,Smith,Kenneth,1993-01-28,191,United States
+554,Spencer,Horace,1997-01-31,206,United States
+555,Stephens,De'Shawn,1989-09-09,203,United States
+556,Sueing,Justice,1999-03-15,201,United States
+557,Taylor,Kameron,1994-09-05,198,United States
+558,Thomas,TaShawn,1993-02-27,204,United States
+559,Thompson,Trevor,1994-06-12,213,United States
+560,Tiby,Matthew,1992-12-19,203,United States
+561,Tillman,Justin,1996-02-02,203,United States
+562,Tinkle,Tres,1996-06-03,202,United States
+563,Turner,Lamonte,1997-07-04,188,United States
+564,Tyree,Breein,1998-01-13,188,United States
+565,Tyus,Marcus,1994-05-16,185,United States
+566,Udeze,Morris,1999-12-13,203,United States
+567,Vander-Plas,Ben,1998-08-19,203,United States
+568,Vann,Issac,1995-09-18,197,United States
+569,Vital,Christian,1997-03-21,188,United States
+570,Walden,Corey,1992-08-05,188,United States
+571,Walker,Jordan,1997-09-19,185,United States
+572,Waller,Antabia,1988-07-11,188,United States
+573,Washington,Eric,1993-06-23,182,United States
+574,Watson,Nate,1998-09-19,208,United States
+575,Watson,Glynn,1997-03-09,182,United States
+576,Weems,Kyle,1989-08-23,198,United States
+577,Wheeler,Aaron,1998-08-24,206,United States
+578,Whitehead,Isaiah,1995-03-08,192,United States
+579,Whittaker,Stanley,1994-09-21,183,United States
+580,Wiley,Austin,1999-01-08,211,United States
+581,Williams,Anthony,2000-07-17,178,United States
+582,Williams,Kenny,1996-10-18,192,United States
+583,Winston,Cassius,1997-02-28,185,United States
+584,Withers,Todd,1996-05-06,203,United States
+585,Woodson,Avery,1993-12-15,188,United States
+586,Young,Michael,1994-08-05,206,United States
+587,Armstead,Malcolm,1989-08-01,188,United States
+588,Bost,Dee,1989-09-12,188,United States
+589,DiLeo,Max,1993-03-12,185,United States
+590,Gilmore,Michael,1995-01-11,207,United States
+591,Lemar,Brynton,1995-01-23,193,United States
+592,Mayfield,Demario,1991-05-23,196,United States
+593,McFadden,Thaddus,1987-05-29,188,United States
+594,Osetkowski,Dylan,1996-08-08,206,United States
+595,Perry,Kendrick,1992-12-23,184,United States
+596,Radebaugh,Jonah,1997-06-17,190,United States
+597,Ragland,Joe,1989-10-11,182,United States
+598,Richard,Kris,1989-03-01,196,United States
+599,Suarez,Manny,1993-10-12,208,United States
+600,Thomas,William,1986-07-01,203,United States
+601,Fitipaldo,Bruno,1991-08-02,184,Uruguay
+602,Chikoko,Vitalis,1991-02-11,207,Zimbabwe
